@@ -7,3 +7,8 @@
     border-radius: 50%;
     background-color: green;
 }
+#cuerpo{
+    border: 5px solid black;
+    height: 850px;
+    width: 850px;
+}
